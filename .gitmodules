@@ -1,0 +1,18 @@
+[submodule "open-webui"]
+	path = open-webui
+	url = https://github.com/enving/open-webui.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/enving/docs.git
+[submodule "mcpo"]
+	path = mcpo
+	url = https://github.com/enving/mcpo.git
+[submodule "pipelines"]
+	path = pipelines
+	url = https://github.com/enving/pipelines.git
+[submodule "desktop"]
+	path = desktop
+	url = https://github.com/enving/desktop.git
+[submodule ".github"]
+	path = .github
+	url = https://github.com/enving/.github.git
